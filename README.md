@@ -1,4 +1,7 @@
-# Table of contents
+# Git/github tutorial for neurobionics group
+> Purpose of this workshop is to provide basic introduction of git/github and usage examples. Hope this tutorial can make git familiar to the members of our group.   
+
+## Table of contents
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
