@@ -1,22 +1,17 @@
-# introduction
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
-#################
-Table of Contents
-#################
-.. contents::
-  :local:
-  :depth: 3
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
 
-============
-Introduction
-============
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
-The purpose of this project is to introduce a shortcut to developers and researcher
-for finding useful resources about TensorFlow.
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
 
------------
-Motivation
------------
-
-There are different motivations for this open source project.
+## Another paragraph <a name="paragraph2"></a>
 
