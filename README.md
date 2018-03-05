@@ -27,9 +27,9 @@
 ## Introduction <a name="introduction"></a>
 This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. In this tutorial, we will assume that audience is new to git/github, so if you feel this is easy, feel free to dive in to the atlassian git tutorial or other resources listed in [Resources](#resources) section. 
 
-## What is version control <a name ="versioncontrol"></a>
+### What is version control <a name ="versioncontrol"></a>
 
-## What is git
+### What is git
 
 ## Installation <a name="installation"></a>
 This section will provide instruction to install git & github 
