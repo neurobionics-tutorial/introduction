@@ -3,18 +3,31 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [Installation](#installation)
+	1. [git](#git)
+	2. [github](#github)	
+3. [Terminology](#terminonlogy)
+4. [Tutorials](#tutorials)
+	1. [When you are using git/github by yourself](#yourself)
+		1. [Creating your first repository](#repo)
+		2. [Make a commit](#commit)
+	
+4. [Resources](#resources)
+5. [References](#references)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Introduction <a name="introduction"></a>
+This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. 
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+## Installation <a name="installation"></a>
+This section will provide instruction to install git & github 
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+### git <a name="git"></a>
+This [link](https://www.atlassian.com/git/tutorials/install-git) includes installtion guide on Windows/Mac/Linux OS. 
 
-## Another paragraph <a name="paragraph2"></a>
+### github <a name="github"></a>
+Create an account at [github](https://github.com)
+
+* you can also facilitate git by using [github desktop](https://desktop.github.com), but for this tutorial we will not cover this, because it will be straight forward once you are familiar with the command line version of it. 
+
+## Tutorials <a name="tutorials"></a>
 
