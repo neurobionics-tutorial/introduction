@@ -4,14 +4,13 @@
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-	1. [git](#git)
-	2. [github](#github)	
+   1. [git](#git)
+   2. [github](#github)	
 3. [Terminology](#terminonlogy)
 4. [Tutorials](#tutorials)
-	1. [When you are using git/github by yourself](#yourself)
-		1. [Creating your first repository](#repo)
-		2. [Make a commit](#commit)
-	
+   1. [When you are using git/github by yourself](#yourself)
+      1. [Creating your first repository](#repo)
+      2. [Make a commit](#commit)
 4. [Resources](#resources)
 5. [References](#references)
 
