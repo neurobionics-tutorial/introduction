@@ -25,7 +25,7 @@
 6. [References](#references)
 
 ## Introduction <a name="introduction"></a>
-This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. In this tutorial, we will assume that audience is new to git/github, so if you feel this is easy, feel free to dive in to the atlassian git tutorial or other resources listed in [Resources]<a name="resources"> section. 
+This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. In this tutorial, we will assume that audience is new to git/github, so if you feel this is easy, feel free to dive in to the atlassian git tutorial or other resources listed in [Resources](#resources) section. 
 
 ## What is version control <a name ="versioncontrol"></a>
 
@@ -44,7 +44,7 @@ Create an account at [github](https://github.com)
 
 ## Tutorials <a name="tutorials"></a>
 
-### When you are using git/github by yourself]<a name="yourself"></a>
+### When you are using git/github by yourself<a name="yourself"></a>
 
 #### Creating your first repository<a name = "repo">
 
@@ -52,7 +52,7 @@ Create an account at [github](https://github.com)
 #### Make a commit <a name="commit"></a>
 This section will explain from making commit to pushing to the server. 
 
-_Basics concepts_ 
+_Basic concepts_ 
 
 local computer, server 
 
