@@ -52,8 +52,10 @@ Create an account at [github](https://github.com)
 #### Make a commit <a name="commit"></a>
 This section will explain from making commit to pushing to the server. 
 
->Basics concepts 
+_Basics concepts_ 
+
 local computer, server 
+
 ```
 git commit -m "first commit"
 ```
