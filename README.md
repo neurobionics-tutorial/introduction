@@ -50,5 +50,17 @@ Create an account at [github](https://github.com)
 
 
 #### Make a commit <a name="commit"></a>
+This section will explain from making commit to pushing to the server. 
 
-#### What is 'HEAD' 
+>Basics concepts
+local computer, server 
+
+'''
+git commit -m "first commit"
+'''
+explain commit command word by word
+
+#### What is 'HEAD' i
+
+## References < a name="references"></a>
+[guides github](https://guides.github.com/activities/hello-world/)
