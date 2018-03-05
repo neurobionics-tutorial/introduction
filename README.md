@@ -64,7 +64,7 @@ explain commit command word by word
 #### What is 'HEAD' 
 
 ## References <a name="references"></a>
-*[guides github](https://guides.github.com/activities/hello-world/)
-*[introduction to git concepts](https://www.intertech.com/Blog/introduction-to-git-concepts/)
+* [guides github](https://guides.github.com/activities/hello-world/)
+* [introduction to git concepts](https://www.intertech.com/Blog/introduction-to-git-concepts/)
 
 
