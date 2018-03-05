@@ -17,7 +17,7 @@
       4. [Open and merge into your master branch ](#merge)
    2. [How to collaborate in github](#collaborate)
       1. [Using branch](#usebranch)
-      2. [Using fork)(#usefork)
+      2. [Using fork](#usefork)
       3. [Resolve conflict](#resolveconflict)
 4. [Useful commands](#useful)
 
@@ -25,7 +25,7 @@
 6. [References](#references)
 
 ## Introduction <a name="introduction"></a>
-This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. In this tutorial, we will assume that audience is new to git/github, so if you feel this is easy, feel free to dive in to the atlassian git tutorial or other resources listed in [Resources](a name="resources") section. 
+This tutorial will mostly refer to [atlassian git tutorial](https://www.atlassian.com/git/tutorials/install-git), which is a excellent resource for learning git. In this tutorial, we will assume that audience is new to git/github, so if you feel this is easy, feel free to dive in to the atlassian git tutorial or other resources listed in [Resources]<a name="resources"> section. 
 
 ## What is version control <a name ="versioncontrol"></a>
 
@@ -52,15 +52,15 @@ Create an account at [github](https://github.com)
 #### Make a commit <a name="commit"></a>
 This section will explain from making commit to pushing to the server. 
 
->Basics concepts
+>Basics concepts 
 local computer, server 
 
-'''
+'''sh
 git commit -m "first commit"
 '''
 explain commit command word by word
 
-#### What is 'HEAD' i
+#### What is 'HEAD' 
 
-## References < a name="references"></a>
+## References <a name="references"></a>
 [guides github](https://guides.github.com/activities/hello-world/)
