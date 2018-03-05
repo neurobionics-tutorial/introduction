@@ -54,10 +54,9 @@ This section will explain from making commit to pushing to the server.
 
 >Basics concepts 
 local computer, server 
-
-'''sh
+```
 git commit -m "first commit"
-'''
+```
 explain commit command word by word
 
 #### What is 'HEAD' 
