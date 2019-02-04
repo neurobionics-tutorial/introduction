@@ -37,6 +37,13 @@ This section will provide instruction to install git & github
 ### git <a name="git"></a>
 This [link](https://www.atlassian.com/git/tutorials/install-git) includes installtion guide on Windows/Mac/Linux OS. 
 
+open a terminal (commandline or gitbash for Windows) and verfify the installation, by typing 
+```
+$ git --version
+git version 2.9.2
+```
+it will show you the version of git if it is properly installed. If not (`command not found`), please check the installatioon again. 
+
 ### github <a name="github"></a>
 Create an account at [github](https://github.com)
 
@@ -47,6 +54,8 @@ Create an account at [github](https://github.com)
 ### When you are using git/github by yourself<a name="yourself"></a>
 
 #### Creating your first repository<a name = "repo">
+![create a repo](https://github.com/neurobionics-tutorial/introduction/blob/master/img/create_repo.png)
+
 
 
 #### Make a commit <a name="commit"></a>
